@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://rafeeqali.tk/blog/atom.xml" rel="self"/>
 	<link href="http://rafeeqali.tk/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://rafeeq-ali.github.io/blog</id>
+	<id>http://rafeeqali.tk/blog</id>
 	<author>
 		<name>Rafeeq Ali</name>
 		<email>rafeeqali365@gmail.com</email>
