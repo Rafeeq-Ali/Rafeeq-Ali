@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rafeeq Ali, Launches Site"
+title: "Rafeeq Ali, Launched Site"
 date: 2019-07-24
 ---
 
