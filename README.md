@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Rafeeq Ali</title>
+		<title>
+		Rafeeq Ali
+		</title>
 	</head>
 	<body>
 		<nav>
