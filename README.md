@@ -21,7 +21,7 @@
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:rafeeqali365@gmail.com">email</a></li>
+        		<li><a href="mailto:rafeeqali365@gmail.com">Email</a></li>
         		<li><a href="http://github.com/Rafeeq-Ali/">Github.com/Rafeeq-Ali/</a></li>
 			</ul>
 		</footer>
