@@ -21,7 +21,7 @@
 		<footer>
     		<ul>
         		<li><a href="mailto:rafeeqali365@gmail.com">email</a></li>
-        		<li><a href="http://github.com/Rafeeq-Ali/">github.com/Rafeeq-Ali/</a></li>
+        		<li><a href="http://github.com/Rafeeq-Ali/">Github.com/Rafeeq-Ali/</a></li>
 			</ul>
 		</footer>
 	</body>
