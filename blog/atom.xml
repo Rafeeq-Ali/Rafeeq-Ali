@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Rafeeq Ali Blog</title>
-	<link href="http://rafeeqali.tk/blog/atom.xml" rel="self"/>
-	<link href="http://rafeeqali.tk/blog"/>
+	<link href="http://www.rafeeqali.tk/blog/atom.xml" rel="self"/>
+	<link href="http://www.rafeeqali.tk/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://rafeeqali.tk/blog</id>
+	<id>http://www.rafeeqali.tk/blog</id>
 	<author>
 		<name>Rafeeq Ali</name>
 		<email>rafeeqali365@gmail.com</email>
@@ -17,9 +17,9 @@ layout: feed
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://rafeeqali.tk{{ post.url }}"/>
+			<link href="http://www.rafeeqali.tk{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://rafeeqali.tk{{ post.id }}</id>
+			<id>http://www.rafeeqali.tk{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
